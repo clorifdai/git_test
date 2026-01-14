@@ -1,3 +1,5 @@
 # git_test
-Hello Odin!\n
+Hello Odin!
 Odin sedang minum bir
+line 4
+line 5
