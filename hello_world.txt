@@ -1,1 +1,3 @@
-hallo dunia. Sekarang aku sedang belajar cara pakai Git
+hallo dunia. 
+Sekarang aku sedang belajar cara pakai Git.
+Aku mau membuat commit yang baik. Ya ini semacam catatan perubahan.
